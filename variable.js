@@ -67,16 +67,16 @@
 // console.log(num3)
 
 
-let number
+// let number
 
-number = 20
+// number = 20
 
-{
-    number = 30
-    console.log(111111, number)
-}
+// {
+//     number = 30
+//     console.log(111111, number)
+// }
 
-console.log(222222, number)
+// console.log(222222, number)
 
 
 
@@ -85,3 +85,56 @@ console.log(222222, number)
 
 // const num3 = 40
 // console.log('num3', num3)
+
+
+
+
+// console.log("Rohit")
+
+// const name = "Rohit"
+// let number = 12345678
+// console.log(name)
+// console.log(number)
+
+
+
+// var =>  we can redclare the variable name  , we can reassign the value  => global scope
+// let =>   we can't redclare the variable name  , we can reassign the value => local/block scope
+// const =>  we can't redclare the variable name  , we can't re-assign the value =>  local/block scope
+
+
+// const abc = "Javascript"
+
+// abc = "TypeScript"
+
+// console.log(abc)
+
+
+
+// let abc = "Javascript"
+
+// abc = "TypeScript"
+
+// console.log(abc)
+
+
+
+
+// var abc = "Javascript"
+
+// abc = "TypeScript"
+
+// console.log(abc)
+
+
+
+// const demo = 123456
+
+
+// {
+//     const demo = 9876543
+//     console.log(demo)
+
+// }
+
+// console.log(demo)
