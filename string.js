@@ -1,8 +1,13 @@
-const options = "      ASDFGHJasdfghjklkjhgfdfghjk    asdfghjklkjhgfds    "
+// const options = "      ASDFGHJasdfghjklkjhgfdfghjk    asdfghjklkjhgfds    "
+
+// const options3 = options.length
+// console.log(123456789, options.length)
+// console.log("optiodfghj", options3)
+
+
 
 // console.log(options.length)
-// const options3 = options.length
-// console.log('option3', options3)
+
 // console.log(options.charAt(19))
 // console.log(options.toLocaleLowerCase())
 // console.log(options.toLocaleUpperCase())
@@ -10,11 +15,11 @@ const options = "      ASDFGHJasdfghjklkjhgfdfghjk    asdfghjklkjhgfds    "
 
 
 
-let text1 = "Hello";
-let text2 = "World";
+// let text1 = "Hello";
+// let text2 = "World";
 
-const text4 = text1 + " " + text2
-console.log(text4)
+// const text4 = text1 + " " + text2
+// console.log(text4)
 
 // let text3 = text2.concat(" ", text1);
 
