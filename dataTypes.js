@@ -2,8 +2,6 @@
 // let length = 16;
 // console.log(typeof length)
 
-
-
 // let weight = 7.5;
 
 // // Strings:
@@ -18,12 +16,10 @@
 
 // console.log(typeof x, typeof y)
 
-
 // //undefined
 // let abc
 
 // console.log(abc)
-
 
 // // Object:
 // const person = { firstName: "John", lastName: "Doe" };
@@ -55,14 +51,11 @@
 // const cars = ["Saab", "Volvo", "BMW"]; // array of string
 // console.log(typeof cars)
 
-
-
 // const num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]; //array of number
 
 // // Date :
 // const date = new Date("2022-03-25");
 // console.log(typeof date)
-
 
 // const vegetable = { Kobi: "kg", Aloo: "kg" }
 
@@ -71,8 +64,36 @@
 // // console.log('products', products)
 // // console.log('vegetable', vegetable)
 
+//String
+const name = "123456789!@#$%^&&&&&&&&&&&";
 
+// console.log("name :>> ", name);
 
+//number
+const number = 1234567890;
 
+// console.log("number :>> ", number);
 
+//Boolean
+const isActive = true;
+const isVerified = false;
 
+//Arrays
+
+const colours = ["yellow", "pink", "black", "white"]; // array of strings
+const randomNumbers = [1, 2, 3, 4, 5, 6, 7, 8]; // array of numbers
+
+const skills = ["HTML", "CSS", "Javascript"];
+
+// console.log("colours :>> ", colours);
+// console.log("randomNumbers :>> ", randomNumbers);
+// console.log("skills :>> ", skills);
+
+const sampleObject = {
+  firstName: "Navneet",
+  lastName: "Kaur",
+};
+
+// console.log("sampleObject :>> ", sampleObject);
+
+const abcd = "Navneet";
